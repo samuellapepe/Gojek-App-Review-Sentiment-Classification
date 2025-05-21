@@ -20,8 +20,8 @@ Proyek ini bertujuan untuk melakukan klasifikasi sentimen terhadap ulasan penggu
 * Evaluasi model: confusion matrix, akurasi, precision, recall, F1-score
 
 ## **Struktur File**
-* Portofolio Module 3 - Ayes.ipynb : Notebook utama yang berisi seluruh proses modeling.
-* gojek_app_review.csv : dataset yang review pengguna aplikasi Gojek.
+* `Portofolio Module 3 - Ayes.ipynb` : Notebook utama yang berisi seluruh proses modeling.
+* `gojek_app_review.csv` : dataset yang review pengguna aplikasi Gojek.
 
 ## **Link Terkait**
 * File gojek_app_review. csv dapat di download [disini.](https://drive.google.com/file/d/1xtf8MtCXK-CpZqqVpTrEmB_xvGI0H0LF/view?usp=sharing)
