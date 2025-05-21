@@ -10,7 +10,7 @@ Proyek ini bertujuan untuk melakukan klasifikasi sentimen terhadap ulasan penggu
 * imbalance-learn
 * NLTK & Sastrawi
 
-## **Fitur**
+## **Fitur & Tahapan Klasifikasi**
 * Pengumpulan data: ulasan aplikasi Gojek dari Google Play Store
 * Preprocessing teks: cleaning, normalisasi kata tidak baku, penghapusan stopwords, stemming
 * Teks eksplorasi: melihat distribusi sentimen
